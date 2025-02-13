@@ -18,7 +18,7 @@
       <IncludeAssets>compile; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <Reference Include="K4RPGSharedApi">
-      <HintPath>/Users/sples/Projects/GitHub/K4-RPG/src-shared/K4-RPG-API.dll</HintPath>
+      <HintPath>C:/Users/Thunder/Desktop/K4-RPG/src-shared/K4-RPG-API.dll</HintPath>
       <Private>false</Private>
     </Reference>
   </ItemGroup>
